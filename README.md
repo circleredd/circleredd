@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###  I'm circle.
-⚡ I’m currently working on **Linux Programming** and **Node.js**
+⚡ I’m currently working on **System Programming** and **Node.js**.
 <!--
 **circleredd/circleredd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
