@@ -1,4 +1,4 @@
-### Hi there👋 I'm circle !
+### Hi👋 I'm circle !
 
 ⚡ I’m currently working on **System Programming** and **Node.js**.
 <!--
